@@ -8,7 +8,7 @@ To complete the second part of the Required Medium State Assignment, you have to
 
 ### Final Checklist
 
--[] Create and/or update an existing GDD document to align with your class project
--[] Include the finished GDD in your Submission Folder
--[] Create a Unity Learning Action Plan
--[] Include the Unity Learning Action Plan in your Submission Folder
+- Create and/or update an existing GDD document to align with your class project
+- Include the finished GDD in your Submission Folder
+- Create a Unity Learning Action Plan
+- Include the Unity Learning Action Plan in your Submission Folder
